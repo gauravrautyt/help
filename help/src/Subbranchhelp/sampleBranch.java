@@ -1,6 +1,6 @@
 package Subbranchhelp;
 
-public class SampleBranch {
+public class sampleBranch {
 
 	public static void main(String[] args) {
 		
